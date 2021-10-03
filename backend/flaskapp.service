@@ -1,0 +1,11 @@
+[Unit]
+Description=< Your App Description Here >
+After=network.target
+
+[Service]
+WorkingDirectory=/home/{user}/FlaskBoilerPlate/backend
+ExecStart=/home/{user}/FlaskBoilerPlate/backend/venv/bin/gunicorn -b 0.0.0.0:8080 app:app
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
