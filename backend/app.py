@@ -17,7 +17,7 @@ def init(*args, **argv):
 
 def create_app():
     logger
-    app = Flask(__name__, static_folder='../ui', static_url_path='/')
+    app = Flask(__name__, static_folder='../ui/build', static_url_path='/')
     init()
     return app
 
