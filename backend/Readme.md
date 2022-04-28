@@ -1,10 +1,14 @@
 1. Goto Working Directory
    cd /FlaskBoilerPlate/backend
+   UI: /ui npm run build
 
 2. Set Python virtual env
    python -m venv venv
    *nix: source venv/bin/activate
    win: .\venv\Scripts\activate
+   python -m flask run
+
+   ngrok http 5000
 
 3. Install dependencies
    pip install -r requirements.txt
@@ -30,3 +34,7 @@ Misc
         "baseUri": "/api/", //from where you want to proxy. 
         "proxyUri": "http://localhost:5000/api/" //the actual url.
    }
+
+
+
+https://stackoverflow.com/questions/52582685/using-asyncio-queue-for-producer-consumer-flow

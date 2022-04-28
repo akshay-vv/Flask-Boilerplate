@@ -1,0 +1,2102 @@
+[
+    {
+        "ticker": "usdtinr",
+        "volume": 8086895.666004515
+    },
+    {
+        "ticker": "shibinr",
+        "volume": 4085971.54040798
+    },
+    {
+        "ticker": "btcinr",
+        "volume": 3287033.5465044477
+    },
+    {
+        "ticker": "zilinr",
+        "volume": 1647105.5179922986
+    },
+    {
+        "ticker": "dogeinr",
+        "volume": 1114603.406505112
+    },
+    {
+        "ticker": "btcusdt",
+        "volume": 798220.54535
+    },
+    {
+        "ticker": "gxsinr",
+        "volume": 794143.8205432479
+    },
+    {
+        "ticker": "trxinr",
+        "volume": 765543.6303213384
+    },
+    {
+        "ticker": "xrpinr",
+        "volume": 699964.9966803876
+    },
+    {
+        "ticker": "wrxinr",
+        "volume": 570591.0157615191
+    },
+    {
+        "ticker": "runeinr",
+        "volume": 445918.08630991896
+    },
+    {
+        "ticker": "ogninr",
+        "volume": 410186.02175541094
+    },
+    {
+        "ticker": "ethinr",
+        "volume": 402749.5968503519
+    },
+    {
+        "ticker": "jasmyinr",
+        "volume": 349999.0314247776
+    },
+    {
+        "ticker": "maticinr",
+        "volume": 346321.4508697384
+    },
+    {
+        "ticker": "gtoinr",
+        "volume": 344964.0130659939
+    },
+    {
+        "ticker": "bttcinr",
+        "volume": 296846.02032667643
+    },
+    {
+        "ticker": "dntinr",
+        "volume": 273513.22569751693
+    },
+    {
+        "ticker": "ookiinr",
+        "volume": 264288.21316691005
+    },
+    {
+        "ticker": "pushinr",
+        "volume": 258641.821431284
+    },
+    {
+        "ticker": "trxwrx",
+        "volume": 193653.79
+    },
+    {
+        "ticker": "cotiinr",
+        "volume": 191069.79877572702
+    },
+    {
+        "ticker": "solinr",
+        "volume": 176021.96522971717
+    },
+    {
+        "ticker": "wininr",
+        "volume": 175177.21441641217
+    },
+    {
+        "ticker": "lunainr",
+        "volume": 174394.62728455715
+    },
+    {
+        "ticker": "idexinr",
+        "volume": 167960.58852370203
+    },
+    {
+        "ticker": "chrinr",
+        "volume": 161449.07686230246
+    },
+    {
+        "ticker": "ftminr",
+        "volume": 160171.3695392378
+    },
+    {
+        "ticker": "bnbinr",
+        "volume": 159220.93051609347
+    },
+    {
+        "ticker": "manainr",
+        "volume": 158739.2776523702
+    },
+    {
+        "ticker": "mirinr",
+        "volume": 158727.62590213784
+    },
+    {
+        "ticker": "galainr",
+        "volume": 153281.59673350153
+    },
+    {
+        "ticker": "dentinr",
+        "volume": 150580.92731376976
+    },
+    {
+        "ticker": "celrinr",
+        "volume": 149573.5194024698
+    },
+    {
+        "ticker": "adainr",
+        "volume": 149426.45596720223
+    },
+    {
+        "ticker": "iotxinr",
+        "volume": 129755.83348824857
+    },
+    {
+        "ticker": "xrpwrx",
+        "volume": 121544.6661
+    },
+    {
+        "ticker": "shibusdt",
+        "volume": 119618.04643243
+    },
+    {
+        "ticker": "trxusdt",
+        "volume": 109174.5499
+    },
+    {
+        "ticker": "xrpusdt",
+        "volume": 108867.99554999999
+    },
+    {
+        "ticker": "frontinr",
+        "volume": 104956.43009294913
+    },
+    {
+        "ticker": "icpinr",
+        "volume": 100812.60124817421
+    },
+    {
+        "ticker": "iostinr",
+        "volume": 99255.0588235294
+    },
+    {
+        "ticker": "lrcinr",
+        "volume": 97584.2258664188
+    },
+    {
+        "ticker": "ethusdt",
+        "volume": 94529.60616000001
+    },
+    {
+        "ticker": "dotinr",
+        "volume": 94134.5965343248
+    },
+    {
+        "ticker": "oneinr",
+        "volume": 92000.25326649848
+    },
+    {
+        "ticker": "vetinr",
+        "volume": 90808.14131137963
+    },
+    {
+        "ticker": "zilusdt",
+        "volume": 82177.95025000001
+    },
+    {
+        "ticker": "gxsusdt",
+        "volume": 78103.100626
+    },
+    {
+        "ticker": "jasmyusdt",
+        "volume": 77984.26707999999
+    },
+    {
+        "ticker": "dgbinr",
+        "volume": 75749.26676404195
+    },
+    {
+        "ticker": "sandinr",
+        "volume": 74112.36581264109
+    },
+    {
+        "ticker": "mboxinr",
+        "volume": 69845.99256406853
+    },
+    {
+        "ticker": "kncinr",
+        "volume": 68319.46089496746
+    },
+    {
+        "ticker": "enjinr",
+        "volume": 67703.4590359846
+    },
+    {
+        "ticker": "cocosinr",
+        "volume": 66379.12355596866
+    },
+    {
+        "ticker": "slpinr",
+        "volume": 65392.949648121095
+    },
+    {
+        "ticker": "idexusdt",
+        "volume": 64410.21981000001
+    },
+    {
+        "ticker": "stxinr",
+        "volume": 63519.35089762315
+    },
+    {
+        "ticker": "avaxinr",
+        "volume": 63510.1667242066
+    },
+    {
+        "ticker": "hotinr",
+        "volume": 62583.13178860709
+    },
+    {
+        "ticker": "umainr",
+        "volume": 58770.9364983402
+    },
+    {
+        "ticker": "xlminr",
+        "volume": 58293.27399694596
+    },
+    {
+        "ticker": "dogeusdt",
+        "volume": 57234.281584000004
+    },
+    {
+        "ticker": "shibwrx",
+        "volume": 57103.627964
+    },
+    {
+        "ticker": "apeinr",
+        "volume": 56700.38109148851
+    },
+    {
+        "ticker": "axsinr",
+        "volume": 56649.61253485592
+    },
+    {
+        "ticker": "wrxusdt",
+        "volume": 54972.64890000001
+    },
+    {
+        "ticker": "alphainr",
+        "volume": 53098.158885938115
+    },
+    {
+        "ticker": "lunausdt",
+        "volume": 51440.354999999996
+    },
+    {
+        "ticker": "apeusdt",
+        "volume": 51199.857617999995
+    },
+    {
+        "ticker": "xecinr",
+        "volume": 49855.454125375116
+    },
+    {
+        "ticker": "phainr",
+        "volume": 49332.928893905184
+    },
+    {
+        "ticker": "atominr",
+        "volume": 44604.56313902536
+    },
+    {
+        "ticker": "polyinr",
+        "volume": 44037.7107953791
+    },
+    {
+        "ticker": "cvcinr",
+        "volume": 42823.73594476165
+    },
+    {
+        "ticker": "solusdt",
+        "volume": 40648.561
+    },
+    {
+        "ticker": "datainr",
+        "volume": 39057.91913690081
+    },
+    {
+        "ticker": "dodoinr",
+        "volume": 38973.416014075156
+    },
+    {
+        "ticker": "alpacainr",
+        "volume": 37131.28071969194
+    },
+    {
+        "ticker": "ltcinr",
+        "volume": 36896.018082060815
+    },
+    {
+        "ticker": "ethwrx",
+        "volume": 36775.6277
+    },
+    {
+        "ticker": "bicoinr",
+        "volume": 36663.11034391183
+    },
+    {
+        "ticker": "etcinr",
+        "volume": 35072.26981118046
+    },
+    {
+        "ticker": "ognusdt",
+        "volume": 33990.2834
+    },
+    {
+        "ticker": "spellinr",
+        "volume": 33800.03033328907
+    },
+    {
+        "ticker": "mdxinr",
+        "volume": 32265.728064002124
+    },
+    {
+        "ticker": "reninr",
+        "volume": 31675.58815562342
+    },
+    {
+        "ticker": "xvginr",
+        "volume": 30682.023518789003
+    },
+    {
+        "ticker": "gtousdt",
+        "volume": 28416.001019
+    },
+    {
+        "ticker": "usdcusdt",
+        "volume": 28165.564499999997
+    },
+    {
+        "ticker": "galausdt",
+        "volume": 27891.081000000002
+    },
+    {
+        "ticker": "1inchinr",
+        "volume": 27856.89447988315
+    },
+    {
+        "ticker": "sushiinr",
+        "volume": 26579.031254813435
+    },
+    {
+        "ticker": "bttcusdt",
+        "volume": 26440.40111967
+    },
+    {
+        "ticker": "aliceinr",
+        "volume": 26371.426902137828
+    },
+    {
+        "ticker": "hntinr",
+        "volume": 25641.83625587571
+    },
+    {
+        "ticker": "snxusdt",
+        "volume": 25163.968694
+    },
+    {
+        "ticker": "ctsiinr",
+        "volume": 24539.623821537643
+    },
+    {
+        "ticker": "dockinr",
+        "volume": 23926.480228389322
+    },
+    {
+        "ticker": "maticusdt",
+        "volume": 23500.619746999997
+    },
+    {
+        "ticker": "xlmusdt",
+        "volume": 23447.042250000002
+    },
+    {
+        "ticker": "hbarinr",
+        "volume": 23315.873132226796
+    },
+    {
+        "ticker": "qntinr",
+        "volume": 22556.89119638826
+    },
+    {
+        "ticker": "algoinr",
+        "volume": 22532.185192404726
+    },
+    {
+        "ticker": "dogewrx",
+        "volume": 22392.2335
+    },
+    {
+        "ticker": "rlcinr",
+        "volume": 22034.76049661399
+    },
+    {
+        "ticker": "sxpinr",
+        "volume": 21486.94965874386
+    },
+    {
+        "ticker": "bnbusdt",
+        "volume": 21406.0144
+    },
+    {
+        "ticker": "roseinr",
+        "volume": 20908.31965210463
+    },
+    {
+        "ticker": "omginr",
+        "volume": 20444.498738547336
+    },
+    {
+        "ticker": "cotiusdt",
+        "volume": 19899.824009999997
+    },
+    {
+        "ticker": "ensinr",
+        "volume": 19842.67567388129
+    },
+    {
+        "ticker": "linkinr",
+        "volume": 19328.293480281503
+    },
+    {
+        "ticker": "balinr",
+        "volume": 18951.162906254147
+    },
+    {
+        "ticker": "scinr",
+        "volume": 18423.21165847829
+    },
+    {
+        "ticker": "maticwrx",
+        "volume": 18376.49705
+    },
+    {
+        "ticker": "dntusdt",
+        "volume": 18368.12532
+    },
+    {
+        "ticker": "zecinr",
+        "volume": 18308.581386668437
+    },
+    {
+        "ticker": "batinr",
+        "volume": 18266.921489841985
+    },
+    {
+        "ticker": "reefinr",
+        "volume": 17482.727818350817
+    },
+    {
+        "ticker": "egldinr",
+        "volume": 17293.64493427168
+    },
+    {
+        "ticker": "sxpusdt",
+        "volume": 16513.481340000002
+    },
+    {
+        "ticker": "zrxinr",
+        "volume": 16338.863497543487
+    },
+    {
+        "ticker": "ckbinr",
+        "volume": 16332.782149780907
+    },
+    {
+        "ticker": "ezinr",
+        "volume": 15398.410835214447
+    },
+    {
+        "ticker": "grtinr",
+        "volume": 15315.994189350682
+    },
+    {
+        "ticker": "duskinr",
+        "volume": 15123.331297304474
+    },
+    {
+        "ticker": "quickinr",
+        "volume": 15121.402483069978
+    },
+    {
+        "ticker": "pntinr",
+        "volume": 14973.397684105697
+    },
+    {
+        "ticker": "lunawrx",
+        "volume": 14926.37916
+    },
+    {
+        "ticker": "cakeinr",
+        "volume": 14419.035695790732
+    },
+    {
+        "ticker": "nearinr",
+        "volume": 14414.85210314699
+    },
+    {
+        "ticker": "snxinr",
+        "volume": 13740.039092550789
+    },
+    {
+        "ticker": "ampinr",
+        "volume": 13621.896162528215
+    },
+    {
+        "ticker": "xvsusdt",
+        "volume": 13543.7302
+    },
+    {
+        "ticker": "tfuelinr",
+        "volume": 13290.964666047004
+    },
+    {
+        "ticker": "dotusdt",
+        "volume": 13047.983212000001
+    },
+    {
+        "ticker": "tlminr",
+        "volume": 12978.6748107821
+    },
+    {
+        "ticker": "viteinr",
+        "volume": 12665.443407526223
+    },
+    {
+        "ticker": "dentusdt",
+        "volume": 12525.07368
+    },
+    {
+        "ticker": "reqinr",
+        "volume": 12419.922653034126
+    },
+    {
+        "ticker": "ookiusdt",
+        "volume": 11586.051150000001
+    },
+    {
+        "ticker": "creaminr",
+        "volume": 11329.774757668303
+    },
+    {
+        "ticker": "nkninr",
+        "volume": 11157.906399946887
+    },
+    {
+        "ticker": "mboxusdt",
+        "volume": 11054.232
+    },
+    {
+        "ticker": "eosinr",
+        "volume": 10571.89324126942
+    },
+    {
+        "ticker": "uniinr",
+        "volume": 10554.473956977825
+    },
+    {
+        "ticker": "bakeinr",
+        "volume": 10417.150444828043
+    },
+    {
+        "ticker": "compinr",
+        "volume": 10156.830434205285
+    },
+    {
+        "ticker": "voxelusdt",
+        "volume": 10038.43008
+    },
+    {
+        "ticker": "tusdusdt",
+        "volume": 9613.9
+    },
+    {
+        "ticker": "winusdt",
+        "volume": 9572.1266622
+    },
+    {
+        "ticker": "icpusdt",
+        "volume": 9484.255799999999
+    },
+    {
+        "ticker": "ftmusdt",
+        "volume": 9323.880032000001
+    },
+    {
+        "ticker": "alphausdt",
+        "volume": 9312.870426
+    },
+    {
+        "ticker": "crvinr",
+        "volume": 9288.927566060285
+    },
+    {
+        "ticker": "pushusdt",
+        "volume": 9262.09203
+    },
+    {
+        "ticker": "oxtinr",
+        "volume": 9192.281193732571
+    },
+    {
+        "ticker": "yfiiinr",
+        "volume": 9166.215156526358
+    },
+    {
+        "ticker": "filinr",
+        "volume": 9063.889788872659
+    },
+    {
+        "ticker": "slpusdt",
+        "volume": 8626.436
+    },
+    {
+        "ticker": "ltcusdt",
+        "volume": 8518.270789999999
+    },
+    {
+        "ticker": "tkoinr",
+        "volume": 8510.942026291328
+    },
+    {
+        "ticker": "adausdt",
+        "volume": 8330.64974
+    },
+    {
+        "ticker": "wavesusdt",
+        "volume": 8293.778699999999
+    },
+    {
+        "ticker": "dodousdt",
+        "volume": 8134.989422999999
+    },
+    {
+        "ticker": "compusdt",
+        "volume": 8110.502399999999
+    },
+    {
+        "ticker": "stxusdt",
+        "volume": 8040.284
+    },
+    {
+        "ticker": "arinr",
+        "volume": 8027.971052981013
+    },
+    {
+        "ticker": "kncusdt",
+        "volume": 7640.766
+    },
+    {
+        "ticker": "ontinr",
+        "volume": 7175.600355862436
+    },
+    {
+        "ticker": "ctxcinr",
+        "volume": 7130.922002390121
+    },
+    {
+        "ticker": "mtlusdt",
+        "volume": 7041.7119999999995
+    },
+    {
+        "ticker": "sandusdt",
+        "volume": 6795.206943
+    },
+    {
+        "ticker": "dashinr",
+        "volume": 6683.50617447882
+    },
+    {
+        "ticker": "dcrinr",
+        "volume": 6317.348519452928
+    },
+    {
+        "ticker": "uftinr",
+        "volume": 6299.015940910902
+    },
+    {
+        "ticker": "zecusdt",
+        "volume": 6294.855500000001
+    },
+    {
+        "ticker": "adawrx",
+        "volume": 6002.712
+    },
+    {
+        "ticker": "xvsinr",
+        "volume": 5922.715373788342
+    },
+    {
+        "ticker": "enjusdt",
+        "volume": 5911.5168
+    },
+    {
+        "ticker": "runeusdt",
+        "volume": 5845.7839650000005
+    },
+    {
+        "ticker": "yfiinr",
+        "volume": 5729.973723648917
+    },
+    {
+        "ticker": "celrusdt",
+        "volume": 5692.60722
+    },
+    {
+        "ticker": "yfiiusdt",
+        "volume": 5550.662136
+    },
+    {
+        "ticker": "bchinr",
+        "volume": 5530.257515602178
+    },
+    {
+        "ticker": "achinr",
+        "volume": 5315.334484132254
+    },
+    {
+        "ticker": "dydxinr",
+        "volume": 5284.899681317222
+    },
+    {
+        "ticker": "hntusdt",
+        "volume": 5249.0226
+    },
+    {
+        "ticker": "celoinr",
+        "volume": 5246.572168370733
+    },
+    {
+        "ticker": "chzusdt",
+        "volume": 5230.32
+    },
+    {
+        "ticker": "runewrx",
+        "volume": 5162.4917080000005
+    },
+    {
+        "ticker": "qntusdt",
+        "volume": 5043.036400000001
+    },
+    {
+        "ticker": "manausdt",
+        "volume": 4998.614202000001
+    },
+    {
+        "ticker": "kmdinr",
+        "volume": 4921.115947417341
+    },
+    {
+        "ticker": "avaxusdt",
+        "volume": 4915.970806
+    },
+    {
+        "ticker": "sushiusdt",
+        "volume": 4804.19766
+    },
+    {
+        "ticker": "astrusdt",
+        "volume": 4783.6494999999995
+    },
+    {
+        "ticker": "sklusdt",
+        "volume": 4712.9553
+    },
+    {
+        "ticker": "yfiiwrx",
+        "volume": 4575.064102
+    },
+    {
+        "ticker": "xecusdt",
+        "volume": 4565.85791274
+    },
+    {
+        "ticker": "vetusdt",
+        "volume": 4390.58104
+    },
+    {
+        "ticker": "paxgusdt",
+        "volume": 4355.67515
+    },
+    {
+        "ticker": "betausdt",
+        "volume": 4295.59925
+    },
+    {
+        "ticker": "nknusdt",
+        "volume": 4280.560845
+    },
+    {
+        "ticker": "fttinr",
+        "volume": 4262.525959367946
+    },
+    {
+        "ticker": "ksminr",
+        "volume": 4222.655557030939
+    },
+    {
+        "ticker": "bnbwrx",
+        "volume": 4037.3606400000003
+    },
+    {
+        "ticker": "axsusdt",
+        "volume": 3990.6608000000006
+    },
+    {
+        "ticker": "roseusdt",
+        "volume": 3938.7455770000006
+    },
+    {
+        "ticker": "ankrusdt",
+        "volume": 3918.788
+    },
+    {
+        "ticker": "rlcusdt",
+        "volume": 3898.09233
+    },
+    {
+        "ticker": "ctxcusdt",
+        "volume": 3890.3184
+    },
+    {
+        "ticker": "busdinr",
+        "volume": 3766.056459965476
+    },
+    {
+        "ticker": "trbinr",
+        "volume": 3721.8669332094005
+    },
+    {
+        "ticker": "etcusdt",
+        "volume": 3705.63
+    },
+    {
+        "ticker": "glmrusdt",
+        "volume": 3680.7048999999997
+    },
+    {
+        "ticker": "audiousdt",
+        "volume": 3668.9094000000005
+    },
+    {
+        "ticker": "eosusdt",
+        "volume": 3588.69966
+    },
+    {
+        "ticker": "pundixusdt",
+        "volume": 3498.9994
+    },
+    {
+        "ticker": "rsrusdt",
+        "volume": 3479.8918059999996
+    },
+    {
+        "ticker": "duskusdt",
+        "volume": 3392.8778730000004
+    },
+    {
+        "ticker": "egldusdt",
+        "volume": 3381.40446
+    },
+    {
+        "ticker": "hotusdt",
+        "volume": 3102.3511316
+    },
+    {
+        "ticker": "busdusdt",
+        "volume": 3030.7809500000003
+    },
+    {
+        "ticker": "enjwrx",
+        "volume": 2987.82
+    },
+    {
+        "ticker": "rareusdt",
+        "volume": 2937.6
+    },
+    {
+        "ticker": "nearusdt",
+        "volume": 2912.937611
+    },
+    {
+        "ticker": "mkrinr",
+        "volume": 2866.7104619452925
+    },
+    {
+        "ticker": "neoinr",
+        "volume": 2711.8711390253616
+    },
+    {
+        "ticker": "fetusdt",
+        "volume": 2663.1345
+    },
+    {
+        "ticker": "aaveusdt",
+        "volume": 2659.3784
+    },
+    {
+        "ticker": "frontusdt",
+        "volume": 2551.9962499999997
+    },
+    {
+        "ticker": "icxinr",
+        "volume": 2500.1905988580534
+    },
+    {
+        "ticker": "cocosusdt",
+        "volume": 2408.2560000000003
+    },
+    {
+        "ticker": "dockusdt",
+        "volume": 2356.354351
+    },
+    {
+        "ticker": "thetausdt",
+        "volume": 2293.28253
+    },
+    {
+        "ticker": "xeminr",
+        "volume": 2281.757030938786
+    },
+    {
+        "ticker": "chrusdt",
+        "volume": 2264.5820400000002
+    },
+    {
+        "ticker": "tusdt",
+        "volume": 2256.9120000000003
+    },
+    {
+        "ticker": "renusdt",
+        "volume": 2103.7895460000004
+    },
+    {
+        "ticker": "ltcwrx",
+        "volume": 2076.0084
+    },
+    {
+        "ticker": "linkusdt",
+        "volume": 2063.46
+    },
+    {
+        "ticker": "arusdt",
+        "volume": 2033.4720000000002
+    },
+    {
+        "ticker": "jstusdt",
+        "volume": 2025.9663
+    },
+    {
+        "ticker": "datausdt",
+        "volume": 2018.72555
+    },
+    {
+        "ticker": "eoswrx",
+        "volume": 1970.475
+    },
+    {
+        "ticker": "ctsiusdt",
+        "volume": 1946.437696
+    },
+    {
+        "ticker": "oceanusdt",
+        "volume": 1874.581
+    },
+    {
+        "ticker": "1inchusdt",
+        "volume": 1860.1522099999997
+    },
+    {
+        "ticker": "creamusdt",
+        "volume": 1833.1650000000002
+    },
+    {
+        "ticker": "btgusdt",
+        "volume": 1817.3908999999999
+    },
+    {
+        "ticker": "woousdt",
+        "volume": 1808.42064
+    },
+    {
+        "ticker": "nbsusdt",
+        "volume": 1731.20736
+    },
+    {
+        "ticker": "batwrx",
+        "volume": 1725.6778
+    },
+    {
+        "ticker": "acausdt",
+        "volume": 1677.05071
+    },
+    {
+        "ticker": "omgusdt",
+        "volume": 1642.67622
+    },
+    {
+        "ticker": "stptinr",
+        "volume": 1591.2200770150046
+    },
+    {
+        "ticker": "nasusdt",
+        "volume": 1587.5209080000002
+    },
+    {
+        "ticker": "agldusdt",
+        "volume": 1578.1314999999997
+    },
+    {
+        "ticker": "multiusdt",
+        "volume": 1568.2348
+    },
+    {
+        "ticker": "alpacausdt",
+        "volume": 1549.92719
+    },
+    {
+        "ticker": "lrcusdt",
+        "volume": 1532.06208
+    },
+    {
+        "ticker": "grtusdt",
+        "volume": 1531.63332
+    },
+    {
+        "ticker": "hbarusdt",
+        "volume": 1523.5078600000002
+    },
+    {
+        "ticker": "chrwrx",
+        "volume": 1521.66
+    },
+    {
+        "ticker": "qiusdt",
+        "volume": 1514.3688
+    },
+    {
+        "ticker": "iotxusdt",
+        "volume": 1503.42156
+    },
+    {
+        "ticker": "dgbusdt",
+        "volume": 1494.95
+    },
+    {
+        "ticker": "iotausdt",
+        "volume": 1482.587155
+    },
+    {
+        "ticker": "arkinr",
+        "volume": 1439.3838799628204
+    },
+    {
+        "ticker": "algousdt",
+        "volume": 1435.6905419999998
+    },
+    {
+        "ticker": "filusdt",
+        "volume": 1426.8548744999998
+    },
+    {
+        "ticker": "balusdt",
+        "volume": 1415.6308319999998
+    },
+    {
+        "ticker": "sysusdt",
+        "volume": 1407.5466000000001
+    },
+    {
+        "ticker": "bicousdt",
+        "volume": 1405.5359500000002
+    },
+    {
+        "ticker": "paxginr",
+        "volume": 1382.9619970787412
+    },
+    {
+        "ticker": "mcusdt",
+        "volume": 1365.5939999999998
+    },
+    {
+        "ticker": "scusdt",
+        "volume": 1358.2731
+    },
+    {
+        "ticker": "bchusdt",
+        "volume": 1307.4252
+    },
+    {
+        "ticker": "atomusdt",
+        "volume": 1302.4872
+    },
+    {
+        "ticker": "mlnusdt",
+        "volume": 1219.7304
+    },
+    {
+        "ticker": "batusdt",
+        "volume": 1175.1663700000001
+    },
+    {
+        "ticker": "umausdt",
+        "volume": 1168.4888
+    },
+    {
+        "ticker": "uniusdt",
+        "volume": 1163.052
+    },
+    {
+        "ticker": "degousdt",
+        "volume": 1145.4872
+    },
+    {
+        "ticker": "cvcusdt",
+        "volume": 1143.5279999999998
+    },
+    {
+        "ticker": "rvnusdt",
+        "volume": 1131.60582
+    },
+    {
+        "ticker": "ardrinr",
+        "volume": 1131.1963882618509
+    },
+    {
+        "ticker": "achusdt",
+        "volume": 1131.1052
+    },
+    {
+        "ticker": "spellusdt",
+        "volume": 1095.77376
+    },
+    {
+        "ticker": "auctionusdt",
+        "volume": 1094.6754
+    },
+    {
+        "ticker": "joeusdt",
+        "volume": 1080.54414
+    },
+    {
+        "ticker": "tfuelusdt",
+        "volume": 1035.6858
+    },
+    {
+        "ticker": "oxtusdt",
+        "volume": 1009.616712
+    },
+    {
+        "ticker": "zrxusdt",
+        "volume": 1001.5014000000001
+    },
+    {
+        "ticker": "btsusdt",
+        "volume": 993.53019
+    },
+    {
+        "ticker": "reefusdt",
+        "volume": 989.57518
+    },
+    {
+        "ticker": "dydxusdt",
+        "volume": 958.958
+    },
+    {
+        "ticker": "xmrusdt",
+        "volume": 934.9848
+    },
+    {
+        "ticker": "vibusdt",
+        "volume": 931.3000000000001
+    },
+    {
+        "ticker": "mdxusdt",
+        "volume": 927.1372
+    },
+    {
+        "ticker": "clvusdt",
+        "volume": 923.8119999999999
+    },
+    {
+        "ticker": "ampusdt",
+        "volume": 916.1374
+    },
+    {
+        "ticker": "adxusdt",
+        "volume": 910.1544
+    },
+    {
+        "ticker": "ancusdt",
+        "volume": 909.17592
+    },
+    {
+        "ticker": "tlmusdt",
+        "volume": 830.4013
+    },
+    {
+        "ticker": "oneusdt",
+        "volume": 826.0188
+    },
+    {
+        "ticker": "dockwrx",
+        "volume": 812.1
+    },
+    {
+        "ticker": "dexeusdt",
+        "volume": 811.5441599999999
+    },
+    {
+        "ticker": "cakeusdt",
+        "volume": 810.16467
+    },
+    {
+        "ticker": "kavausdt",
+        "volume": 801.94688
+    },
+    {
+        "ticker": "injusdt",
+        "volume": 795.1447900000001
+    },
+    {
+        "ticker": "minausdt",
+        "volume": 786.428
+    },
+    {
+        "ticker": "mftusdt",
+        "volume": 750.9892500000001
+    },
+    {
+        "ticker": "sunusdt",
+        "volume": 708.02108
+    },
+    {
+        "ticker": "celousdt",
+        "volume": 701.7381
+    },
+    {
+        "ticker": "fidausdt",
+        "volume": 697.9014000000001
+    },
+    {
+        "ticker": "polyusdt",
+        "volume": 651.0068
+    },
+    {
+        "ticker": "neousdt",
+        "volume": 636.1572
+    },
+    {
+        "ticker": "stptusdt",
+        "volume": 631.977691
+    },
+    {
+        "ticker": "ezusdt",
+        "volume": 630.9056
+    },
+    {
+        "ticker": "keyusdt",
+        "volume": 617.0401380000001
+    },
+    {
+        "ticker": "flowusdt",
+        "volume": 602.3611999999999
+    },
+    {
+        "ticker": "imxusdt",
+        "volume": 568.3515600000001
+    },
+    {
+        "ticker": "ardrusdt",
+        "volume": 566.892
+    },
+    {
+        "ticker": "xtzusdt",
+        "volume": 559.06158
+    },
+    {
+        "ticker": "linkwrx",
+        "volume": 547.1999999999999
+    },
+    {
+        "ticker": "vgxusdt",
+        "volume": 544.58
+    },
+    {
+        "ticker": "iostusdt",
+        "volume": 535.76128
+    },
+    {
+        "ticker": "pyrusdt",
+        "volume": 527.39865
+    },
+    {
+        "ticker": "xemusdt",
+        "volume": 517.4356
+    },
+    {
+        "ticker": "srmusdt",
+        "volume": 514.10646
+    },
+    {
+        "ticker": "kdausdt",
+        "volume": 504.57
+    },
+    {
+        "ticker": "brdusdt",
+        "volume": 503.07599999999996
+    },
+    {
+        "ticker": "blzusdt",
+        "volume": 496.42879999999997
+    },
+    {
+        "ticker": "storjusdt",
+        "volume": 484.9624
+    },
+    {
+        "ticker": "santosusdt",
+        "volume": 463.56299999999993
+    },
+    {
+        "ticker": "ckbusdt",
+        "volume": 454.1528
+    },
+    {
+        "ticker": "bntusdt",
+        "volume": 430.34829600000006
+    },
+    {
+        "ticker": "arkusdt",
+        "volume": 424.67600000000004
+    },
+    {
+        "ticker": "waxpusdt",
+        "volume": 413.11
+    },
+    {
+        "ticker": "xvgusdt",
+        "volume": 396.75278
+    },
+    {
+        "ticker": "icxusdt",
+        "volume": 388.74732000000006
+    },
+    {
+        "ticker": "uftusdt",
+        "volume": 377.92733
+    },
+    {
+        "ticker": "portousdt",
+        "volume": 373.54468399999996
+    },
+    {
+        "ticker": "pntusdt",
+        "volume": 370.459833
+    },
+    {
+        "ticker": "sntusdt",
+        "volume": 356.31232
+    },
+    {
+        "ticker": "quickusdt",
+        "volume": 350.948
+    },
+    {
+        "ticker": "gnousdt",
+        "volume": 349.3
+    },
+    {
+        "ticker": "qkcusdt",
+        "volume": 340.27324999999996
+    },
+    {
+        "ticker": "aionusdt",
+        "volume": 337.887693
+    },
+    {
+        "ticker": "cfxusdt",
+        "volume": 333.326
+    },
+    {
+        "ticker": "dashusdt",
+        "volume": 325.2366
+    },
+    {
+        "ticker": "tkousdt",
+        "volume": 316.93536000000006
+    },
+    {
+        "ticker": "nmrusdt",
+        "volume": 304.98400000000004
+    },
+    {
+        "ticker": "qtumusdt",
+        "volume": 282.044042
+    },
+    {
+        "ticker": "xnousdt",
+        "volume": 279.63059999999996
+    },
+    {
+        "ticker": "tomousdt",
+        "volume": 268.80400000000003
+    },
+    {
+        "ticker": "ksmusdt",
+        "volume": 267.78330000000005
+    },
+    {
+        "ticker": "avausdt",
+        "volume": 264.69954
+    },
+    {
+        "ticker": "trbusdt",
+        "volume": 264.04094
+    },
+    {
+        "ticker": "laziousdt",
+        "volume": 246.04987200000002
+    },
+    {
+        "ticker": "bakeusdt",
+        "volume": 243.17439999999996
+    },
+    {
+        "ticker": "glmusdt",
+        "volume": 229.188
+    },
+    {
+        "ticker": "lskusdt",
+        "volume": 225.922
+    },
+    {
+        "ticker": "1inchwrx",
+        "volume": 222.27656
+    },
+    {
+        "ticker": "yfiusdt",
+        "volume": 213.95145606
+    },
+    {
+        "ticker": "funusdt",
+        "volume": 213.8097
+    },
+    {
+        "ticker": "beamusdt",
+        "volume": 213.33280000000002
+    },
+    {
+        "ticker": "grsusdt",
+        "volume": 201.8392
+    },
+    {
+        "ticker": "loomusdt",
+        "volume": 197.87541
+    },
+    {
+        "ticker": "radusdt",
+        "volume": 194.34449999999998
+    },
+    {
+        "ticker": "alpineusdt",
+        "volume": 190.966302
+    },
+    {
+        "ticker": "atausdt",
+        "volume": 190.689
+    },
+    {
+        "ticker": "fttusdt",
+        "volume": 185.84013
+    },
+    {
+        "ticker": "yfiwrx",
+        "volume": 173.498112
+    },
+    {
+        "ticker": "perpusdt",
+        "volume": 170.558322
+    },
+    {
+        "ticker": "bandusdt",
+        "volume": 166.65236
+    },
+    {
+        "ticker": "requsdt",
+        "volume": 159.00192
+    },
+    {
+        "ticker": "fluxusdt",
+        "volume": 157.0785
+    },
+    {
+        "ticker": "aliceusdt",
+        "volume": 147.9564
+    },
+    {
+        "ticker": "hiveusdt",
+        "volume": 146.87400000000002
+    },
+    {
+        "ticker": "ensusdt",
+        "volume": 142.41
+    },
+    {
+        "ticker": "mirusdt",
+        "volume": 129.49949999999998
+    },
+    {
+        "ticker": "bchsvusdt",
+        "volume": 128.686
+    },
+    {
+        "ticker": "api3usdt",
+        "volume": 116.89117999999999
+    },
+    {
+        "ticker": "stmxusdt",
+        "volume": 115.40475
+    },
+    {
+        "ticker": "firousdt",
+        "volume": 93.57300000000001
+    },
+    {
+        "ticker": "darusdt",
+        "volume": 89.2584
+    },
+    {
+        "ticker": "ontusdt",
+        "volume": 80.854296
+    },
+    {
+        "ticker": "phausdt",
+        "volume": 80.47809
+    },
+    {
+        "ticker": "klayusdt",
+        "volume": 75.15
+    },
+    {
+        "ticker": "scrtusdt",
+        "volume": 72.184
+    },
+    {
+        "ticker": "mkrusdt",
+        "volume": 55.90656
+    },
+    {
+        "ticker": "kmdusdt",
+        "volume": 54.193999999999996
+    },
+    {
+        "ticker": "maskusdt",
+        "volume": 53.976
+    },
+    {
+        "ticker": "cosusdt",
+        "volume": 38.9652
+    },
+    {
+        "ticker": "crvusdt",
+        "volume": 32.399952
+    },
+    {
+        "ticker": "chessusdt",
+        "volume": 30.013199999999998
+    },
+    {
+        "ticker": "burgerusdt",
+        "volume": 25.133999999999997
+    },
+    {
+        "ticker": "dcrusdt",
+        "volume": 24.385170000000002
+    },
+    {
+        "ticker": "ilvusdt",
+        "volume": 23.619199999999996
+    },
+    {
+        "ticker": "usdpusdt",
+        "volume": 20.16
+    },
+    {
+        "ticker": "wtcusdt",
+        "volume": 18.708
+    },
+    {
+        "ticker": "rayusdt",
+        "volume": 15.538199999999998
+    },
+    {
+        "ticker": "steemusdt",
+        "volume": 12.718368
+    },
+    {
+        "ticker": "straxusdt",
+        "volume": 12.689237
+    },
+    {
+        "ticker": "powrusdt",
+        "volume": 10.296000000000001
+    },
+    {
+        "ticker": "antusdt",
+        "volume": 5.159999999999999
+    },
+    {
+        "ticker": "superusdt",
+        "volume": 4.501
+    },
+    {
+        "ticker": "viteusdt",
+        "volume": 2.3664904
+    },
+    {
+        "ticker": "xrpbtc",
+        "volume": 0.110809029
+    },
+    {
+        "ticker": "reqbtc",
+        "volume": 0.10324674
+    },
+    {
+        "ticker": "bnbbtc",
+        "volume": 0.065524872
+    },
+    {
+        "ticker": "maticbtc",
+        "volume": 0.052544072000000004
+    },
+    {
+        "ticker": "zilbtc",
+        "volume": 0.0501676
+    },
+    {
+        "ticker": "ethbtc",
+        "volume": 0.048816098100000004
+    },
+    {
+        "ticker": "trxbtc",
+        "volume": 0.04562314
+    },
+    {
+        "ticker": "zrxbtc",
+        "volume": 0.0443167155
+    },
+    {
+        "ticker": "celrbtc",
+        "volume": 0.029664839999999998
+    },
+    {
+        "ticker": "omgbtc",
+        "volume": 0.025971659999999997
+    },
+    {
+        "ticker": "ltcbtc",
+        "volume": 0.019008119999999996
+    },
+    {
+        "ticker": "polybtc",
+        "volume": 0.00936586
+    },
+    {
+        "ticker": "wrxbtc",
+        "volume": 0.00853919
+    },
+    {
+        "ticker": "batbtc",
+        "volume": 0.0075900527
+    },
+    {
+        "ticker": "fttbtc",
+        "volume": 0.007046943200000001
+    },
+    {
+        "ticker": "adabtc",
+        "volume": 0.0070247880000000006
+    },
+    {
+        "ticker": "nulsbtc",
+        "volume": 0.00634151
+    },
+    {
+        "ticker": "qkcbtc",
+        "volume": 0.005954
+    },
+    {
+        "ticker": "sntbtc",
+        "volume": 0.00527956
+    },
+    {
+        "ticker": "stmxbtc",
+        "volume": 0.0038133
+    },
+    {
+        "ticker": "atombtc",
+        "volume": 0.002673115
+    },
+    {
+        "ticker": "iostbtc",
+        "volume": 0.0014565000000000001
+    },
+    {
+        "ticker": "thetabtc",
+        "volume": 0.000632128
+    },
+    {
+        "ticker": "xmrbtc",
+        "volume": 0.000500368
+    },
+    {
+        "ticker": "rvnbtc",
+        "volume": 0.00012696
+    },
+    {
+        "ticker": "nulsinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "chzinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "fetinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "klayinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "pondinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "ilvinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "mlninr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "cfxinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "radinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "burgerinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "scrtinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "sysinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "agldinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "keyinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "rareinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "suninr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "auctioninr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "atainr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "oceaninr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "superinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "betainr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "waxpinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "qiinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "chessinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "ltoinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "beaminr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "brdinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "voxelinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "powrinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "antinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "farminr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "lazioinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "portoinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "santosinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "glmrinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "xnoinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "nmrinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "fidainr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "darinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "tinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "pyrinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "imxinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "api3inr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "alpineinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "astrinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "ancinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "fluxinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "kdainr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "wooinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "acainr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "joeinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "mcinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "alcxinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "ankrinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "multiinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "highinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "rndrinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "plainr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "forinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "gmtinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "bnxinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "nasinr",
+        "volume": 0.0
+    },
+    {
+        "ticker": "dashbtc",
+        "volume": 0.0
+    },
+    {
+        "ticker": "eosbtc",
+        "volume": 0.0
+    },
+    {
+        "ticker": "icxbtc",
+        "volume": 0.0
+    },
+    {
+        "ticker": "usdcbtc",
+        "volume": 0.0
+    },
+    {
+        "ticker": "xlmbtc",
+        "volume": 0.0
+    },
+    {
+        "ticker": "fetbtc",
+        "volume": 0.0
+    },
+    {
+        "ticker": "glmbtc",
+        "volume": 0.0
+    },
+    {
+        "ticker": "repusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "mdtusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "ltousdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "daiusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "swrvusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "diausdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "perlusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "pondusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "nulsusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "farmusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "alcxusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "highusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "rndrusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "plausdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "forusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "gmtusdt",
+        "volume": 0.0
+    },
+    {
+        "ticker": "bnxusdt",
+        "volume": 0.0
+    }
+]
