@@ -6,7 +6,8 @@
    virtualenv venv
    *nix: source venv/bin/activate
    win: .\venv\Scripts\activate
-   python -m flask run
+
+   uvicorn main:app --reload
 
    ngrok http 5000
 
