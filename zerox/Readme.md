@@ -7,7 +7,7 @@
    *nix: source venv/bin/activate
    win: .\venv\Scripts\activate
 
-   uvicorn main:app --reload
+   uvicorn app:app --reload
 
    ngrok http 5000
 
