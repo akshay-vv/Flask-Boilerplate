@@ -18,7 +18,7 @@ async def get_spread():
     ticker_collection = get_ticker_db()
     cursor = ticker_collection.find()
     tickers = []
-    for ticker in await cursor.to_list(length=100):
+    for ticker in await cursor.to_list(length=1000):
         tickers.append(ticker)
     return tickers
 

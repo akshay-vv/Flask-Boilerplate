@@ -1,14 +1,15 @@
 import './App.css';
 import { Box } from '@material-ui/core';
-import HelloWorld from './Component/HelloWorld';
 import Dashboard from './Component/dashboard/Dashboard'
+import { BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
-    <Box
-    >
-      <Dashboard />
-    </Box>
+    <BrowserRouter>
+      <Box>
+        <Dashboard />
+      </Box>
+    </BrowserRouter>
   );
 }
 
