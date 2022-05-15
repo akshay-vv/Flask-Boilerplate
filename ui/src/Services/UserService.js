@@ -1,19 +1,11 @@
-import { API_LOGIN, API_LOGOUT } from "../Config"
+import { API_USERS_ME } from "../Config"
 import axios from 'axios';
 
-export async function login(credentials) {
-    let result = {
-        success: false,
-        data: null
-    }
-    const formBody = new FormData()
-    formBody.append("username", credentials.username)
-    formBody.append("password", credentials.password)
-    return axios.post(API_LOGIN, formBody)
-        .then(response => { 
-            result.success = true
-            result.data = response.data
-            return result
+export async function getUser() {
+
+    return axios.get(API_USERS_ME, { headers: {"Authorization" : `Bearer ${localStorage.auth}`} })
+        .then(response => {
+            return response
         })
         .catch(error => {
             if (error.response) {
@@ -22,24 +14,18 @@ export async function login(credentials) {
                 console.log(error.response.data);
                 console.log(error.response.status);
                 console.log(error.response.headers);
-                result.data = error.response.data
+
             } else if (error.request) {
                 // The request was made but no response was received
                 // `error.request` is an instance of XMLHttpRequest in the browser and an instance of
                 // http.ClientRequest in node.js
                 console.log(error.request);
-                result.data = error.request
+
             } else {
                 // Something happened in setting up the request that triggered an Error
                 console.log('Error', error.message);
-                result.data = error.message
-            }
-            return result
-        })
-}
 
-export async function logout() {
-    return fetch(API_LOGOUT, {
-        method: 'POST'
-    }).then(data => data.json())
+            }
+            return error
+        })
 }

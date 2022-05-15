@@ -15,7 +15,8 @@ import { Route, Routes } from 'react-router-dom'
 import MenuIcon from '@mui/icons-material/Menu';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import { mainListItems, secondaryListItems } from './listItems';
-import WazSpread from './WazSpread'
+import WazSpread from '../../Pages/WazSpread'
+import Main from '../../Pages/Main'
 import Login from '../login/Login'
 
 function Copyright(props) {
@@ -153,7 +154,8 @@ function DashboardContent() {
         >
           <Toolbar />
           <Routes>
-            <Route path='/' element={<WazSpread />} />
+            <Route path='/' element={<Main />} />
+            <Route path='/waz' element={<WazSpread />} />
             <Route path='/chatroom' element={<Box>Welcome!</Box>} />
             <Route path='/login' element={<Login />} />
           </Routes>
