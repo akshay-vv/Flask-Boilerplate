@@ -2,11 +2,10 @@ import React, { Component, useContext, useState, useEffect } from "react";
 import TablePagination from '@mui/material/TablePagination';
 import LoadingButton from '@mui/lab/LoadingButton';
 import RefreshIcon from '@mui/icons-material/Refresh';
-import Stack from '@mui/material/Stack';
-import { API_WAZ_SPREAD } from "../Config";
 import Container from '@mui/material/Container';
 import Paper from '@mui/material/Paper';
 import AuthContext from "../Component/auth/AuthContext";
+import { spread as apiSpread, calculateSpread as apiCalculateSpread } from "../Services/WazService";
 import {
     DataGrid,
     useGridSlotComponentProps,
@@ -41,30 +40,39 @@ export default function WazSpread() {
     const [spread, setSpread] = useState(null)
     const authContext = useContext(AuthContext)
 
-    useEffect(() => {
-        fetch(API_WAZ_SPREAD)
-            .then((res) => {
-                console.log("Inspecting Response...")
-                // console.log(res)
-                // console.log(res.json())
+    const calculateSpread = async e => {
+        const response = await apiCalculateSpread()
+        setSpread(response)
+    }
 
-                return res.json()
-            })
-            .then(
-                (result) => {
-                    setSpread(result)
-                },
-                (error) => {
-                    console.log(error)
-                    console.log('hit2')
-                }
-            ).catch((err) => {
-                console.log('hit')
-                console.log(err)
-            })
+    CustomPagination = () => {
+        const { state, apiRef, options } = useGridSlotComponentProps();
+        const refreshButton = authContext.auth?.user ? <LoadingButton size="small" onClick={calculateSpread} variant="outlined" startIcon={<RefreshIcon />}>
+            Refresh  </LoadingButton> : null
+        return (
+            <React.Fragment>
+                {refreshButton}
+                <TablePagination
+                    component="div"
+                    count={state.pagination.rowCount}
+                    page={state.pagination.page}
+                    onPageChange={(event, value) => apiRef.current.setPage(value)}
+                    rowsPerPage={options.pageSize}
+                    rowsPerPageOptions={[50]}
+                >
+                </TablePagination>
+            </React.Fragment>
+        );
+    }
+
+    useEffect(() => {
+        async function fetchSpread() {
+            const response = await apiSpread()
+            setSpread(response)
+        }
+        fetchSpread();
     }, [])
 
-    console.log(authContext)
     return (
         <React.Fragment>
             <Container sx={{ mt: 2, }}>
