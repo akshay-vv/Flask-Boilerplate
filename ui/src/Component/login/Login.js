@@ -24,7 +24,7 @@ export default function Login() {
             setFailureMessage(null)
 
             const response = await getUser()
-            localStorage.user = response.data
+            localStorage.user = JSON.stringify(response.data)
             authContext.setAuth({ 'user': response.data })
             navigate("/", {replace: true});
         } else {

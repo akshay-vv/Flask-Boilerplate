@@ -10,7 +10,7 @@ export async function login(credentials) {
     formBody.append("username", credentials.username)
     formBody.append("password", credentials.password)
     return axios.post(API_LOGIN, formBody)
-        .then(response => { 
+        .then(response => {
             result.success = true
             result.data = response.data
             return result
@@ -39,7 +39,8 @@ export async function login(credentials) {
 }
 
 export async function logout() {
-    return fetch(API_LOGOUT, {
-        method: 'POST'
-    }).then(data => data.json())
+    return axios.post(API_LOGOUT, null, { headers: { "Authorization": `Bearer ${localStorage.auth}` } })
+    .then(response => {
+        return response
+    })
 }

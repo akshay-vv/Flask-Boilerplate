@@ -8,5 +8,5 @@ export default AuthContext
 // }
 
 export const defaultAuthContext = {
-    user: false
+    user: localStorage.user ? JSON.parse(localStorage.user) : false
 }
