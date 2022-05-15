@@ -1,9 +1,10 @@
 import yaml
+import logging
 from fastapi import FastAPI
 from security.user_manager import fastapi_users, auth_backend
 from db.db import init_client
 from routers.waz import router as waz_router 
-import logging
+from fastapi.staticfiles import StaticFiles
 log = logging.getLogger("uvicorn")
 
 CONFIG_FILE = "config.yml"
@@ -35,6 +36,10 @@ def create_app():
         tags=["users"],
     )
     app.include_router(waz_router)
+
+    app.mount("/", StaticFiles(directory="../ui/build", html = True), name="docs")
+    app.mount("/docusaurus", StaticFiles(directory="../docs/build", html = True), name="docs")
+
     log.info("App is initialized")
     return app
 
