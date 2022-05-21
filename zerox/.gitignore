@@ -2,3 +2,7 @@ venv/
 __pycache__/
 app.log
 .credentials
+spread.json
+transactions.txt
+p2p_orders.txt
+waz/*.json

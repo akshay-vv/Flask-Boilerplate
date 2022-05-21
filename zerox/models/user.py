@@ -1,20 +1,17 @@
-import datetime
-
 from typing import Optional
-from fastapi_users import models
+from beanie import PydanticObjectId
+from fastapi_users import schemas
 
 
-class User(models.BaseUser):
+class UserRead(schemas.BaseUser[PydanticObjectId]):
     first_name: str
     last_name: Optional[str]
 
-class UserCreate(models.BaseUserCreate):
+class UserCreate(schemas.BaseUserCreate):
     first_name: str
     last_name: Optional[str]
 
-class UserUpdate(models.BaseUserUpdate):
+class UserUpdate(schemas.BaseUserUpdate):
     first_name: Optional[str]
     last_name: Optional[str]
 
-class UserDB(User, models.BaseUserDB):
-    pass

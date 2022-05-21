@@ -22,6 +22,19 @@ class WazSpread():
         self._calculate_spread(tickers)
         return tickers
     
+
+    def _calculate_spread(self, tickers):
+        current_time = time.time()
+        for ticker in tickers:
+            bids = ticker["bids"]
+
+            high = float(bids[0][0])
+            low = float(bids[-1][0])
+            ticker["spread"] =((high - low) / low) * 100
+            ticker["last_updated"] = current_time
+
+        tickers.sort(key=lambda item: item['spread'], reverse=True)
+
     async def _get_bids(self, tickers):
         waz_api = self._get_waz_api()
         tasks = []
@@ -37,18 +50,6 @@ class WazSpread():
             bids = results[idx]["bids"]
             if bids:
                 ticker["bids"] = bids
-
-    def _calculate_spread(self, tickers):
-        current_time = time.time()
-        for ticker in tickers:
-            bids = ticker["bids"]
-
-            high = float(bids[0][0])
-            low = float(bids[-1][0])
-            ticker["spread"] =((high - low) / low) * 100
-            ticker["last_updated"] = current_time
-
-        tickers.sort(key=lambda item: item['spread'], reverse=True)
 
     async def _get_tickers(self):
         waz_api = self._get_waz_api()
@@ -66,6 +67,7 @@ class WazSpread():
         _tickers = []
         for ticker, ticker_details in tickers.items():
             ticker_details["ticker_name"] = ticker
+            #Duplicate the name into _id for mongo primary key
             ticker_details["_id"] = ticker_details["name"]
             _tickers.append(ticker_details)
         return _tickers
