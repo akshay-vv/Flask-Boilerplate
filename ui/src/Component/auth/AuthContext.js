@@ -1,5 +1,5 @@
 import {createContext, React} from 'react'
-
+import {me} from '../../Services/LoginService'
 const AuthContext = createContext();
 export default AuthContext
 // export default function AuthContext({children}) {
@@ -8,5 +8,5 @@ export default AuthContext
 // }
 
 export const defaultAuthContext = {
-    user: localStorage.user ? JSON.parse(localStorage.user) : false
+    user: false
 }

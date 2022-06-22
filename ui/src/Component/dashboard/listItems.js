@@ -4,6 +4,7 @@ import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import ListSubheader from '@mui/material/ListSubheader';
 import BarChartIcon from '@mui/icons-material/BarChart';
+import CurrencyBitcoinIcon from '@mui/icons-material/CurrencyBitcoin';
 import ChatIcon from '@mui/icons-material/Chat';
 import HomeIcon from '@mui/icons-material/Home';
 import { Link } from '@mui/material'
@@ -25,6 +26,14 @@ export const mainListItems = (
           <BarChartIcon />
         </ListItemIcon>
         <ListItemText primary="Waz Spread" />
+      </ListItemButton>
+    </Link>
+    <Link color="inherit" component={RouterLink} to="/portfolio">
+      <ListItemButton>
+        <ListItemIcon>
+          <CurrencyBitcoinIcon />
+        </ListItemIcon>
+        <ListItemText primary="Portfolio" />
       </ListItemButton>
     </Link>
   </React.Fragment>

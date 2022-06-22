@@ -35,7 +35,7 @@ export async function calculateSpread(credentials) {
             headers:
                 { "Authorization": `Bearer ${localStorage.auth}` }
         }
-    ).then(response => response.data)
+    ).then(response => response)
         .catch(error => {
             let result = null
             if (error.response) {
@@ -44,7 +44,7 @@ export async function calculateSpread(credentials) {
                 console.log(error.response.data);
                 console.log(error.response.status);
                 console.log(error.response.headers);
-                result = error.response.data
+                result = error.response
             } else if (error.request) {
                 // The request was made but no response was received
                 // `error.request` is an instance of XMLHttpRequest in the browser and an instance of

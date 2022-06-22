@@ -18,6 +18,7 @@ import { mainListItems, secondaryListItems } from './listItems';
 import WazSpread from '../../Pages/WazSpread'
 import Main from '../../Pages/Main'
 import Login from '../login/Login'
+import Portfolio from '../../Pages/Portfolio'
 
 function Copyright(props) {
   return (
@@ -158,6 +159,7 @@ function DashboardContent() {
             <Route path='/waz' element={<WazSpread />} />
             <Route path='/chatroom' element={<Box>Welcome!</Box>} />
             <Route path='/login' element={<Login />} />
+            <Route path='/portfolio' element={<Portfolio />} />
           </Routes>
           <Copyright sx={{ pt: 4 }} />
         </Box>

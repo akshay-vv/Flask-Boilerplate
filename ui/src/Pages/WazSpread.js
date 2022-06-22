@@ -11,6 +11,7 @@ import {
     useGridSlotComponentProps,
 } from '@mui/x-data-grid';
 import { Box } from "@mui/system";
+import CircularProgress from '@mui/material/CircularProgress';
 
 function CustomPagination() {
     const { state, apiRef, options } = useGridSlotComponentProps();
@@ -42,7 +43,13 @@ export default function WazSpread() {
 
     const calculateSpread = async e => {
         const response = await apiCalculateSpread()
-        setSpread(response)
+        if (response?.status === 401) {
+
+        } else if (response?.status !== 200) {
+
+        } else {
+            setSpread(response.data)
+        }
     }
 
     CustomPagination = () => {
@@ -91,7 +98,10 @@ export default function WazSpread() {
                             pageSize={50}
                             components={{ Pagination: CustomPagination }}
                         />
-                        : <Box>Oh No! API Failure!</Box>}
+                        : <Box>
+                            <CircularProgress />
+                            Loading...
+                           </Box>}
                 </Paper>
             </Container>
         </React.Fragment>
